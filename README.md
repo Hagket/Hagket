@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hagket
 - 💻 I currently know Python and Java
-- 🌱 I’m currently learning Javascript & Majoring in Computer Science
+- 🌱 I’m currently learning Javascript & majoring in Computer Science @ University of Massachussetts Boston
 - 📫 How to reach me hvketchedjian@gmail.com
 
 <!---
