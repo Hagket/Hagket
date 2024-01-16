@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hagket
-- 💻 I currently know Python and Java
-- 🌱 I’m currently learning Javascript & C
+- 💻 I currently know Java, Python, C, and Javascript
+- 🌱 I’m currently learning Assembly
 - I am working towards my B.S in Computer Science @ the University of Massachusetts Boston
 - 📫 How to reach me: hvketchedjian@gmail.com
 
